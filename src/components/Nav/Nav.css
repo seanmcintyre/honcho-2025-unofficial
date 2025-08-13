@@ -1,0 +1,41 @@
+.nav-tabs {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  color: #1f2937;
+
+  margin: 0;
+  overflow: hidden;
+  border-top: 4px solid #1f2937;
+  border-bottom: 4px solid #1f2937;
+
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.1px;
+}
+
+.nav-tab {
+  padding: 1rem;
+  text-align: center;
+  text-decoration: none;
+
+  border-right: 4px solid #1f2937;
+
+  transition: border 150ms ease-in-out, background-color 110ms ease-in-out 40ms;
+}
+
+.nav-tab:hover {
+  background-color: #1f29373a;
+}
+
+.nav-tab:first-child {
+  border-left: 4px solid #1f2937;
+}
+
+.nav-tab:last-child {
+  border-right: 4px solid #1f2937;
+}
+
+.nav-tab h3 {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 600;
+}

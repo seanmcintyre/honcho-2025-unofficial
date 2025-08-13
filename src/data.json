@@ -1,0 +1,1098 @@
+{
+  "events": [
+    {
+      "title": "Baronhawk Poitier b2b Tommy C",
+      "id": "baronhawk-tommy-b2b",
+      "type": "music",
+      "time_start": "11:00am",
+      "time_end": "2:30pm",
+      "day_program": "Thursday",
+      "day_actual": "Thursday Aug 14",
+      "stage": "Hemlock Hole",
+      "tags": [
+        "music",
+        "dj",
+        "b2b"
+      ],
+      "description": "Baronhawk Poitier b2b Tommy C"
+    },
+    {
+      "title": "DJ ETTA",
+      "id": "dj-etta",
+      "type": "music",
+      "time_start": "2:30pm",
+      "time_end": "4:30pm",
+      "day_program": "Thursday",
+      "day_actual": "Thursday Aug 14",
+      "stage": "Hemlock Hole",
+      "tags": [
+        "music",
+        "dj"
+      ],
+      "description": "DJ ETTA"
+    },
+    {
+      "title": "Keenan Orr",
+      "id": "keenan-orr",
+      "type": "music",
+      "time_start": "4:30pm",
+      "time_end": "6:30pm",
+      "day_program": "Thursday",
+      "day_actual": "Thursday Aug 14",
+      "stage": "Hemlock Hole",
+      "tags": [
+        "music",
+        "dj"
+      ],
+      "description": "Keenan Orr"
+    },
+    {
+      "title": "CAMPOUT BEST PRACTICES",
+      "id": "campout-best-practices",
+      "type": "welcome",
+      "time_start": "6:30pm",
+      "time_end": "7:55pm",
+      "day_program": "Thursday",
+      "day_actual": "Thursday Aug 14",
+      "stage": "Hemlock Hole",
+      "tags": [
+        "welcome",
+        "kickoff"
+      ],
+      "description": "CAMPOUT BEST PRACTICES w/ Anya Volz, BUMPER, dr. nick, Esther Fallick, Jaélynn Dominguez, Joy Joseph, Kochina Rude, Nika Lucia Sylvain, who girl"
+    },
+    {
+      "title": "DRAG: LUCY STOOLE",
+      "id": "drag-lucy-stoole",
+      "type": "drag",
+      "time_start": "7:55pm",
+      "time_end": "8:00pm",
+      "day_program": "Thursday",
+      "day_actual": "Thursday Aug 14",
+      "stage": "Hemlock Hole",
+      "tags": [
+        "drag",
+        "performer"
+      ],
+      "description": "DRAG: LUCY STOOLE"
+    },
+    {
+      "title": "QFF Ball",
+      "id": "qff-ball",
+      "type": "ball",
+      "time_start": "8:00pm",
+      "time_end": "10:30pm",
+      "day_program": "Thursday",
+      "day_actual": "Thursday Aug 14",
+      "stage": "Hemlock Hole",
+      "tags": [
+        "ball",
+        "competition",
+        "drag"
+      ],
+      "description": "QFF Ball w/ Mochi Babyphat, Mr. Bitch, Jaybella Banks, Slim Fenti, Malibu Babyphat"
+    },
+    {
+      "title": "Boyfriend Dick b2b Joshua Orange",
+      "id": "boyfriend-dick-joshua-orange",
+      "type": "music",
+      "time_start": "10:30pm",
+      "time_end": "12:30am",
+      "day_program": "Thursday",
+      "day_actual": "Thursday Aug 14",
+      "stage": "Hemlock Hole",
+      "tags": [
+        "music",
+        "dj",
+        "b2b"
+      ],
+      "description": "Boyfriend Dick b2b Joshua Orange"
+    },
+    {
+      "title": "HYPERFEMME b2b Amarji King",
+      "id": "hyperfemme-amarji-b2b",
+      "type": "music",
+      "time_start": "12:30am",
+      "time_end": "10:00am",
+      "day_program": "Thursday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Hemlock Hole",
+      "tags": [
+        "music",
+        "dj",
+        "b2b"
+      ],
+      "description": "HYPERFEMME b2b Amarji King"
+    },
+    {
+      "title": "The Sacred Sensuality of Our Planet-Bodies",
+      "id": "sacred-sensuality",
+      "type": "wellness",
+      "time_start": "3:00pm",
+      "time_end": "5:30pm",
+      "day_program": "Thursday",
+      "day_actual": "Thursday Aug 14",
+      "stage": "Circle of Whispers",
+      "tags": [
+        "wellness",
+        "meditation"
+      ],
+      "description": "The Sacred Sensuality of Our Planet-Bodies w/ Sarita Doe"
+    },
+    {
+      "title": "TELLING IT SLANT",
+      "id": "telling-it-slant",
+      "type": "talk",
+      "time_start": "5:30pm",
+      "time_end": "8:00pm",
+      "day_program": "Thursday",
+      "day_actual": "Thursday Aug 14",
+      "stage": "Circle of Whispers",
+      "tags": [
+        "talks",
+        "panels"
+      ],
+      "description": "TELLING IT SLANT w/ Stacy Jane Grover & Robert Gipe"
+    },
+    {
+      "title": "SPI: Dance Floor Warm-Up",
+      "id": "spi-warmup",
+      "type": "wellness",
+      "time_start": "8:00pm",
+      "time_end": "10:30pm",
+      "day_program": "Thursday",
+      "day_actual": "Thursday Aug 14",
+      "stage": "Circle of Whispers",
+      "tags": [
+        "wellness",
+        "meditation"
+      ],
+      "description": "SPI: Dance Floor Warm-Up w/ slowdanger"
+    },
+    {
+      "title": "Black Dream Escape Rest Extravaganza",
+      "id": "black-dream-escape-thu",
+      "type": "wellness",
+      "time_start": "10:30pm",
+      "time_end": "12:00am",
+      "day_program": "Thursday",
+      "day_actual": "Thursday Aug 14",
+      "stage": "Circle of Whispers",
+      "tags": [
+        "wellness",
+        "meditation"
+      ],
+      "description": "Black Dream Escape Rest Extravaganza"
+    },
+    {
+      "title": "Wind Down Ambient Mix",
+      "id": "wind-down-ambient-thu",
+      "type": "music",
+      "time_start": "12:00am",
+      "time_end": "10:00am",
+      "day_program": "Thursday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Circle of Whispers",
+      "tags": [
+        "music",
+        "ambient"
+      ],
+      "description": "Wind Down Ambient Mix by Jake Muir"
+    },
+    {
+      "title": "LIVE: Tigered Flesh > Matmos > Pod Blotz",
+      "id": "live-tigered-flesh",
+      "type": "live",
+      "time_start": "7:30pm",
+      "time_end": "10:30pm",
+      "day_program": "Thursday",
+      "day_actual": "Thursday Aug 14",
+      "stage": "Critters Lounge",
+      "tags": [
+        "live",
+        "performance"
+      ],
+      "description": "LIVE: Tigered Flesh > Matmos > Pod Blotz"
+    },
+    {
+      "title": "TRL DRAG hosted by Charlene",
+      "id": "trl-drag-charlene",
+      "type": "drag",
+      "time_start": "10:30pm",
+      "time_end": "12:00am",
+      "day_program": "Thursday",
+      "day_actual": "Thursday Aug 14",
+      "stage": "Critters Lounge",
+      "tags": [
+        "drag",
+        "open-stage"
+      ],
+      "description": "TRL DRAG hosted by Charlene"
+    },
+    {
+      "title": "Critters Cabaret",
+      "id": "critters-cabaret-thu",
+      "type": "cabaret",
+      "time_start": "12:00am",
+      "time_end": "3:00am",
+      "day_program": "Thursday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Critters Lounge",
+      "tags": [
+        "cabaret",
+        "performance"
+      ],
+      "description": "Critters Cabaret w/ Kitten N' Lou, Victoria DeVille, Skinny Bone Jones, Kylie Mooncakes, Siren, Eddie Lockwood, The Great Dane, Velma Blair"
+    },
+    {
+      "title": "FEMQUEEN REVIVAL",
+      "id": "femqueen-revival",
+      "type": "performance",
+      "time_start": "3:00am",
+      "time_end": "4:00am",
+      "day_program": "Thursday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Critters Lounge",
+      "tags": [
+        "performance",
+        "revival"
+      ],
+      "description": "FEMQUEEN REVIVAL w/ Ameris Carter, Arewà Basit, JayBella Banks & LeeLee"
+    },
+    {
+      "title": "RED LIGHT STORYTIME",
+      "id": "red-light-storytime",
+      "type": "performance",
+      "time_start": "4:00am",
+      "time_end": "8:00pm",
+      "day_program": "Thursday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Critters Lounge",
+      "tags": [
+        "storytelling",
+        "performance"
+      ],
+      "description": "RED LIGHT STORYTIME w/ LeeLee"
+    },
+    {
+      "title": "Julie Marghilano",
+      "id": "julie-marghilano",
+      "type": "music",
+      "time_start": "10:00pm",
+      "time_end": "1:00am",
+      "day_program": "Thursday",
+      "day_actual": "Thursday Aug 14",
+      "stage": "The Grove",
+      "tags": [
+        "music",
+        "dj"
+      ],
+      "description": "Julie Marghilano"
+    },
+    {
+      "title": "Kiernan Laveaux",
+      "id": "kiernan-laveaux",
+      "type": "music",
+      "time_start": "1:00am",
+      "time_end": "7:00pm",
+      "day_program": "Thursday",
+      "day_actual": "Friday Aug 15",
+      "stage": "The Grove",
+      "tags": [
+        "music",
+        "dj"
+      ],
+      "description": "Kiernan Laveaux"
+    },
+    {
+      "title": "Infinite Jess",
+      "id": "infinite-jess-fri",
+      "type": "music",
+      "time_start": "10:00am",
+      "time_end": "1:00pm",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Hemlock Hole",
+      "tags": [
+        "music",
+        "dj"
+      ],
+      "description": "Infinite Jess"
+    },
+    {
+      "title": "OSCAR",
+      "id": "oscar-fri",
+      "type": "music",
+      "time_start": "1:00pm",
+      "time_end": "3:30pm",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Hemlock Hole",
+      "tags": [
+        "music",
+        "dj"
+      ],
+      "description": "OSCAR"
+    },
+    {
+      "title": "Madre Guía",
+      "id": "madre-guia-fri",
+      "type": "music",
+      "time_start": "3:30pm",
+      "time_end": "6:00pm",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Hemlock Hole",
+      "tags": [
+        "music",
+        "dj"
+      ],
+      "description": "Madre Guía"
+    },
+    {
+      "title": "DRAG: Grace Towers",
+      "id": "drag-grace-towers-fri",
+      "type": "drag",
+      "time_start": "6:00pm",
+      "time_end": "8:00pm",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Hemlock Hole",
+      "tags": [
+        "drag",
+        "performer"
+      ],
+      "description": "DRAG: Grace Towers"
+    },
+    {
+      "title": "Radical Routes to Our Heart's Desire",
+      "id": "radical-routes-fri",
+      "type": "wellness",
+      "time_start": "10:00am",
+      "time_end": "12:30pm",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Circle of Whispers",
+      "tags": [
+        "wellness",
+        "workshop"
+      ],
+      "description": "Radical Routes to Our Heart's Desire w/ Sarita Doe"
+    },
+    {
+      "title": "INSIDE HONCHO: QUEER COMMUNITY THROUGH SOUND",
+      "id": "inside-honcho",
+      "type": "talk",
+      "time_start": "12:30pm",
+      "time_end": "3:00pm",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Circle of Whispers",
+      "tags": [
+        "talk",
+        "community"
+      ],
+      "description": "INSIDE HONCHO: QUEER COMMUNITY THROUGH SOUND w/ Sharlese + Honcho"
+    },
+    {
+      "title": "Mindful Movement Yoga",
+      "id": "mindful-movement-fri",
+      "type": "wellness",
+      "time_start": "3:00pm",
+      "time_end": "5:30pm",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Circle of Whispers",
+      "tags": [
+        "yoga",
+        "wellness"
+      ],
+      "description": "Mindful Movement Yoga w/ Carson Moody"
+    },
+    {
+      "title": "EVERYBODY'S FUCKING EVERYBODY",
+      "id": "everybodys-fucking-everybody",
+      "type": "talk",
+      "time_start": "5:30pm",
+      "time_end": "8:00pm",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Circle of Whispers",
+      "tags": [
+        "talk",
+        "community"
+      ],
+      "description": "EVERYBODY'S FUCKING EVERYBODY w/ Viva Ruiz, Neon Christina & Moss Froom"
+    },
+    {
+      "title": "Queer Rope 101",
+      "id": "queer-rope-101",
+      "type": "wellness",
+      "time_start": "8:00pm",
+      "time_end": "10:30pm",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Circle of Whispers",
+      "tags": [
+        "wellness",
+        "workshop"
+      ],
+      "description": "Queer Rope 101 w/ Freaks Not Creeps (LIMITED TO 25, SIGN UP 7:45pm)"
+    },
+    {
+      "title": "Deep Release Yin",
+      "id": "deep-release-yin",
+      "type": "wellness",
+      "time_start": "10:30pm",
+      "time_end": "12:00am",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Circle of Whispers",
+      "tags": [
+        "yoga",
+        "wellness"
+      ],
+      "description": "Deep Release Yin w/ Sasha Jones"
+    },
+    {
+      "title": "Wind Down Ambient Mix",
+      "id": "wind-down-ambient-fri",
+      "type": "music",
+      "time_start": "12:00am",
+      "time_end": "10:00am",
+      "day_program": "Friday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Circle of Whispers",
+      "tags": [
+        "music",
+        "ambient"
+      ],
+      "description": "Wind Down Ambient Mix by Jake Muir"
+    },
+    {
+      "title": "Zvrra",
+      "id": "zvrra-fri",
+      "type": "music",
+      "time_start": "7:00pm",
+      "time_end": "10:30pm",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "The Grove (Dweller)",
+      "tags": [
+        "music",
+        "dj",
+        "dweller"
+      ],
+      "description": "Zvrra"
+    },
+    {
+      "title": "BEARCAT",
+      "id": "bearcat-fri",
+      "type": "music",
+      "time_start": "10:30pm",
+      "time_end": "1:30am",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "The Grove (Dweller)",
+      "tags": [
+        "music",
+        "dj",
+        "dweller"
+      ],
+      "description": "BEARCAT"
+    },
+    {
+      "title": "Juliana Huxtable",
+      "id": "juliana-huxtable-fri",
+      "type": "music",
+      "time_start": "1:30am",
+      "time_end": "4:00am",
+      "day_program": "Friday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "The Grove (Dweller)",
+      "tags": [
+        "music",
+        "dj",
+        "dweller"
+      ],
+      "description": "Juliana Huxtable"
+    },
+    {
+      "title": "999ADJ",
+      "id": "999adj-fri",
+      "type": "music",
+      "time_start": "4:00am",
+      "time_end": "7:00pm",
+      "day_program": "Friday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "The Grove (Dweller)",
+      "tags": [
+        "music",
+        "dj",
+        "dweller"
+      ],
+      "description": "999ADJ"
+    },
+    {
+      "title": "Bottoming for Jesus",
+      "id": "bottoming-for-jesus",
+      "type": "theatre",
+      "time_start": "8:00pm",
+      "time_end": "9:30pm",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Critters Lounge",
+      "tags": [
+        "theatre",
+        "performance"
+      ],
+      "description": "Bottoming for Jesus w/ Michael R. Speciàle & Jeremiah Ginn"
+    },
+    {
+      "title": "TRL DRAG hosted by Lucy Balls & Untitled Queen",
+      "id": "trl-drag-fri",
+      "type": "drag",
+      "time_start": "9:30pm",
+      "time_end": "11:30pm",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Critters Lounge",
+      "tags": [
+        "drag",
+        "open-stage"
+      ],
+      "description": "TRL DRAG hosted by Lucy Balls & Untitled Queen"
+    },
+    {
+      "title": "LIVE: Hen House > aetatis suae > Cry",
+      "id": "live-hen-house",
+      "type": "live",
+      "time_start": "11:30pm",
+      "time_end": "3:00am",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Critters Lounge",
+      "tags": [
+        "live",
+        "performance"
+      ],
+      "description": "LIVE: Hen House > aetatis suae > Cry"
+    },
+    {
+      "title": "CRITTERS CABARET",
+      "id": "critters-cabaret-fri",
+      "type": "cabaret",
+      "time_start": "3:00am",
+      "time_end": "8:00pm",
+      "day_program": "Friday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Critters Lounge",
+      "tags": [
+        "cabaret",
+        "performance"
+      ],
+      "description": "CRITTERS CABARET w/ Kitten N' Lou, Boyfriend, Skinny Bone Jones, Kylie Mooncakes, Dane & Eddie Clowns, Velma Blair"
+    },
+    {
+      "title": "August V. M.",
+      "id": "august-vm-fri",
+      "type": "music",
+      "time_start": "8:00pm",
+      "time_end": "10:30pm",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Hemlock Nights",
+      "tags": [
+        "music",
+        "dj",
+        "hemlock-nights"
+      ],
+      "description": "August V. M."
+    },
+    {
+      "title": "DRAG: Willow Pill",
+      "id": "drag-willow-pill",
+      "type": "drag",
+      "time_start": "10:30pm",
+      "time_end": "10:30pm",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Hemlock Nights",
+      "tags": [
+        "drag",
+        "performer"
+      ],
+      "description": "DRAG: Willow Pill"
+    },
+    {
+      "title": "x3butterfly",
+      "id": "x3butterfly-fri",
+      "type": "music",
+      "time_start": "10:30pm",
+      "time_end": "1:00am",
+      "day_program": "Friday",
+      "day_actual": "Friday Aug 15",
+      "stage": "Hemlock Nights",
+      "tags": [
+        "music",
+        "dj",
+        "hemlock-nights"
+      ],
+      "description": "x3butterfly"
+    },
+    {
+      "title": "Special Guest DJ",
+      "id": "special-guest-dj-fri",
+      "type": "music",
+      "time_start": "1:00am",
+      "time_end": "3:30am",
+      "day_program": "Friday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Hemlock Nights",
+      "tags": [
+        "music",
+        "dj",
+        "hemlock-nights"
+      ],
+      "description": "Special Guest DJ"
+    },
+    {
+      "title": "enereph",
+      "id": "enereph-fri",
+      "type": "music",
+      "time_start": "3:30am",
+      "time_end": "10:00am",
+      "day_program": "Friday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Hemlock Nights",
+      "tags": [
+        "music",
+        "dj",
+        "hemlock-nights"
+      ],
+      "description": "enereph"
+    },
+      {
+      "title": "Scout",
+      "id": "scout-sat",
+      "type": "music",
+      "time_start": "10:00am",
+      "time_end": "12:00pm",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Hemlock Hole",
+      "tags": ["music", "dj"],
+      "description": "Scout"
+    },
+    {
+      "title": "ROJO",
+      "id": "rojo-sat",
+      "type": "music",
+      "time_start": "12:00pm",
+      "time_end": "2:30pm",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Hemlock Hole",
+      "tags": ["music", "dj"],
+      "description": "ROJO"
+    },
+    {
+      "title": "Joe Delon",
+      "id": "joe-delon-sat",
+      "type": "music",
+      "time_start": "2:30pm",
+      "time_end": "4:30pm",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Hemlock Hole",
+      "tags": ["music", "dj"],
+      "description": "Joe Delon"
+    },
+    {
+      "title": "DRAG: BEAUJANGLESS",
+      "id": "drag-beaujangless-sat",
+      "type": "drag",
+      "time_start": "4:30pm",
+      "time_end": "4:30pm",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Hemlock Hole",
+      "tags": ["drag", "performer"],
+      "description": "DRAG: BEAUJANGLESS"
+    },
+    {
+      "title": "Lauren Flax",
+      "id": "lauren-flax-sat",
+      "type": "music",
+      "time_start": "4:30pm",
+      "time_end": "8:00pm",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Hemlock Hole",
+      "tags": ["music", "dj"],
+      "description": "Lauren Flax"
+    },
+    {
+      "title": "Mindful Movement Yoga",
+      "id": "mindful-movement-sat",
+      "type": "wellness",
+      "time_start": "10:00am",
+      "time_end": "12:30pm",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Circle of Whispers",
+      "tags": ["yoga", "wellness"],
+      "description": "Mindful Movement Yoga w/ Carson Moody"
+    },
+    {
+      "title": "MOTHA NATURE: BLACK FACES, GREEN SPACES",
+      "id": "motha-nature-sat",
+      "type": "talk",
+      "time_start": "12:30pm",
+      "time_end": "3:00pm",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Circle of Whispers",
+      "tags": ["talk", "nature"],
+      "description": "MOTHA NATURE: BLACK FACES, GREEN SPACES w/ LeeLee & Carolyn Finney"
+    },
+    {
+      "title": "Grounded Gentle Flow",
+      "id": "grounded-gentle-flow-sat",
+      "type": "wellness",
+      "time_start": "3:00pm",
+      "time_end": "5:30pm",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Circle of Whispers",
+      "tags": ["yoga", "wellness"],
+      "description": "Grounded Gentle Flow w/ Sasha Jones"
+    },
+    {
+      "title": "RECLAIMING SPACE",
+      "id": "reclaiming-space-sat",
+      "type": "talk",
+      "time_start": "5:30pm",
+      "time_end": "8:00pm",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Circle of Whispers",
+      "tags": ["talk", "space"],
+      "description": "RECLAIMING SPACE w/ Ceyenne Doroshow & Río Sofia"
+    },
+    {
+      "title": "Temple of Touch",
+      "id": "temple-of-touch-sat",
+      "type": "wellness",
+      "time_start": "8:00pm",
+      "time_end": "10:30pm",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Circle of Whispers",
+      "tags": ["wellness", "touch"],
+      "description": "Temple of Touch w/ Luis Angel"
+    },
+    {
+      "title": "Open Ropes",
+      "id": "open-ropes-sat",
+      "type": "wellness",
+      "time_start": "10:30pm",
+      "time_end": "1:00am",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Circle of Whispers",
+      "tags": ["wellness", "ropes"],
+      "description": "Open Ropes w/ Freaks Not Creeps"
+    },
+    {
+      "title": "dancing with the ghosts of ourselves",
+      "id": "dancing-ghosts-sat",
+      "type": "wellness",
+      "time_start": "1:00am",
+      "time_end": "9:00am",
+      "day_program": "Saturday",
+      "day_actual": "Sunday Aug 17",
+      "stage": "Circle of Whispers",
+      "tags": ["wellness", "meditation"],
+      "description": "dancing with the ghosts of ourselves w/ slowdanger"
+    },
+    {
+      "title": "The Baptist",
+      "id": "the-baptist-sat",
+      "type": "music",
+      "time_start": "7:00pm",
+      "time_end": "10:30pm",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "The Grove",
+      "tags": ["music", "dj"],
+      "description": "The Baptist"
+    },
+    {
+      "title": "HUNY XO",
+      "id": "huny-xo-sat",
+      "type": "music",
+      "time_start": "10:30pm",
+      "time_end": "1:00am",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "The Grove",
+      "tags": ["music", "dj"],
+      "description": "HUNY XO"
+    },
+    {
+      "title": "Ayesha",
+      "id": "ayesha-sat",
+      "type": "music",
+      "time_start": "1:00am",
+      "time_end": "4:00am",
+      "day_program": "Saturday",
+      "day_actual": "Sunday Aug 17",
+      "stage": "The Grove",
+      "tags": ["music", "dj"],
+      "description": "Ayesha"
+    },
+    {
+      "title": "Bèzier",
+      "id": "bezier-sat",
+      "type": "music",
+      "time_start": "4:00am",
+      "time_end": "12:00pm",
+      "day_program": "Saturday",
+      "day_actual": "Sunday Aug 17",
+      "stage": "The Grove",
+      "tags": ["music", "dj"],
+      "description": "Bèzier"
+    },
+    {
+      "title": "The Moon Baby Show",
+      "id": "moon-baby-show-sat",
+      "type": "theatre",
+      "time_start": "8:00pm",
+      "time_end": "9:30pm",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Critters Lounge",
+      "tags": ["theatre", "performance"],
+      "description": "The Moon Baby Show w/ The Moon Baby & Lili St. Queer"
+    },
+    {
+      "title": "TRL DRAG hosted by Grace Towers",
+      "id": "trl-drag-sat",
+      "type": "drag",
+      "time_start": "9:30pm",
+      "time_end": "11:30pm",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Critters Lounge",
+      "tags": ["drag", "open-stage"],
+      "description": "TRL DRAG hosted by Grace Towers"
+    },
+    {
+      "title": "CRITTERS CABARET",
+      "id": "critters-cabaret-sat",
+      "type": "cabaret",
+      "time_start": "11:30pm",
+      "time_end": "2:30am",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Critters Lounge",
+      "tags": ["cabaret", "performance"],
+      "description": "CRITTERS CABARET w/ Kitten N' Lou, Boyfriend, Victoria DeVille, Skinny Bone Jones, MINT, Siren, The Great Dane, Eddie Lockwood, Kylie Mooncakes"
+    },
+    {
+      "title": "LIVE: Ruth Mascelli > JZKL + MIRA MIRA > Black Leather Jesus + slowdanger",
+      "id": "live-ruth-mascelli",
+      "type": "live",
+      "time_start": "2:30am",
+      "time_end": "8:00pm",
+      "day_program": "Saturday",
+      "day_actual": "Sunday Aug 17",
+      "stage": "Critters Lounge",
+      "tags": ["live", "performance"],
+      "description": "LIVE: Ruth Mascelli > JZKL + MIRA MIRA > Black Leather Jesus + slowdanger"
+    },
+    {
+      "title": "Æir",
+      "id": "aeir-sat",
+      "type": "music",
+      "time_start": "8:00pm",
+      "time_end": "10:30pm",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Hemlock Nights",
+      "tags": ["music", "dj", "hemlock-nights"],
+      "description": "Æir"
+    },
+    {
+      "title": "DRAG: Anya Kneez",
+      "id": "drag-anya-kneez",
+      "type": "drag",
+      "time_start": "10:30pm",
+      "time_end": "10:30pm",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Hemlock Nights",
+      "tags": ["drag", "performer"],
+      "description": "DRAG: Anya Kneez"
+    },
+    {
+      "title": "Doula",
+      "id": "doula-sat",
+      "type": "music",
+      "time_start": "10:30pm",
+      "time_end": "1:00am",
+      "day_program": "Saturday",
+      "day_actual": "Saturday Aug 16",
+      "stage": "Hemlock Nights",
+      "tags": ["music", "dj", "hemlock-nights"],
+      "description": "Doula"
+    },
+    {
+      "title": "IHA",
+      "id": "iha-sat",
+      "type": "music",
+      "time_start": "1:00am",
+      "time_end": "3:30am",
+      "day_program": "Saturday",
+      "day_actual": "Sunday Aug 17",
+      "stage": "Hemlock Nights",
+      "tags": ["music", "dj", "hemlock-nights"],
+      "description": "IHA"
+    },
+    {
+      "title": "Jake Muir",
+      "id": "jake-muir-sat",
+      "type": "music",
+      "time_start": "3:30am",
+      "time_end": "9:00am",
+      "day_program": "Saturday",
+      "day_actual": "Sunday Aug 17",
+      "stage": "Hemlock Nights",
+      "tags": ["music", "dj", "hemlock-nights"],
+      "description": "Jake Muir"
+    },
+       {
+      "title": "Queer Revival",
+      "id": "queer-revival-sun",
+      "type": "wellness",
+      "time_start": "9:00am",
+      "time_end": "11:30am",
+      "day_program": "Sunday",
+      "day_actual": "Sunday Aug 17",
+      "stage": "Circle of Whispers",
+      "tags": ["wellness", "revival"],
+      "description": "Queer Revival w/ Luis"
+    },
+    {
+      "title": "radical radicles: seeding queer agroecologies",
+      "id": "radical-radicles-sun",
+      "type": "talk",
+      "time_start": "11:30am",
+      "time_end": "2:00pm",
+      "day_program": "Sunday",
+      "day_actual": "Sunday Aug 17",
+      "stage": "Circle of Whispers",
+      "tags": ["talk", "agroecology"],
+      "description": "radical radicles: seeding queer agroecologies w/ Chris Keeve"
+    },
+    {
+      "title": "Black Dream Escape Rest Extravaganza",
+      "id": "black-dream-escape-sun",
+      "type": "wellness",
+      "time_start": "2:00pm",
+      "time_end": "12:00pm",
+      "day_program": "Sunday",
+      "day_actual": "Sunday Aug 17",
+      "stage": "Circle of Whispers",
+      "tags": ["wellness", "meditation"],
+      "description": "Black Dream Escape Rest Extravaganza"
+    },
+    {
+      "title": "S'aint Panic",
+      "id": "saint-panic-sun",
+      "type": "music",
+      "time_start": "12:00pm",
+      "time_end": "3:00pm",
+      "day_program": "Sunday",
+      "day_actual": "Sunday Aug 17",
+      "stage": "Hemlock Hole",
+      "tags": ["music", "dj"],
+      "description": "S'aint Panic"
+    },
+    {
+      "title": "Jellyfish",
+      "id": "jellyfish-sun",
+      "type": "music",
+      "time_start": "3:00pm",
+      "time_end": "6:00pm",
+      "day_program": "Sunday",
+      "day_actual": "Sunday Aug 17",
+      "stage": "Hemlock Hole",
+      "tags": ["music", "dj"],
+      "description": "Jellyfish"
+    },
+    {
+      "title": "DRAG: Charlene",
+      "id": "drag-charlene-sun",
+      "type": "drag",
+      "time_start": "6:00pm",
+      "time_end": "6:00pm",
+      "day_program": "Sunday",
+      "day_actual": "Sunday Aug 17",
+      "stage": "Hemlock Hole",
+      "tags": ["drag", "performer"],
+      "description": "DRAG: Charlene"
+    },
+    {
+      "title": "Honcho",
+      "id": "honcho-sun",
+      "type": "music",
+      "time_start": "6:00pm",
+      "time_end": "9:00pm",
+      "day_program": "Sunday",
+      "day_actual": "Sunday Aug 17",
+      "stage": "The Grove",
+      "tags": ["music", "dj"],
+      "description": "Honcho"
+    },
+    {
+      "title": "Rich King",
+      "id": "rich-king-sun",
+      "type": "music",
+      "time_start": "9:00pm",
+      "time_end": "12:00am",
+      "day_program": "Sunday",
+      "day_actual": "Sunday Aug 17",
+      "stage": "The Grove",
+      "tags": ["music", "dj"],
+      "description": "Rich King"
+    },
+    {
+      "title": "CLOSING: Ceyenne",
+      "id": "closing-ceyenne",
+      "type": "music",
+      "time_start": "12:00am",
+      "time_end": "6:00am",
+      "day_program": "Sunday",
+      "day_actual": "Monday Aug 18",
+      "stage": "The Grove",
+      "tags": ["music", "dj", "closing"],
+      "description": "CLOSING: Ceyenne"
+    }
+  ],
+  "stages": [
+    "Hemlock Hole",
+    "Circle of Whispers",
+    "The Grove",
+    "Critters Lounge",
+    "The Library",
+    "Hemlock Nights"
+  ],
+  "days": [
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ]
+}

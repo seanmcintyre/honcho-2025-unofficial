@@ -1,0 +1,35 @@
+{
+  "name": "Honcho 2025 (Unofficial)",
+  "short_name": "Honcho 2025 (Unofficial)",
+  "description": "Unofficial Honcho app that works offline!",
+  "start_url": "/honcho-2025-unofficial/",
+  "display": "standalone",
+  "background_color": "#dcdddf",
+  "theme_color": "#dcdddf",
+  "orientation": "portrait-primary",
+  "categories": ["entertainment", "music", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "features": ["offline", "cross-platform"],
+  "prefer_related_applications": false
+}
